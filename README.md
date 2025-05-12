@@ -23,8 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![Video Walkthrough](https://files.catbox.moe/tajcv0.gif)
-![Video Walkthrough](https://i.imgur.com/305Z8yT.gif)
+![web_prework_demo1](https://github.com/user-attachments/assets/568c16dc-edb3-4c42-8492-2a42e9ea99d5)
+![web_prework_demo2](https://github.com/user-attachments/assets/4b4bc135-9d60-45b6-8abe-9b3d8b0b7891)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap & Imgur
