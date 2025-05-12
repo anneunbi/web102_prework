@@ -34,7 +34,7 @@ GIF created with Kap & Imgur
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The main challenges were getting back into the rhythm of working with HTML, CSS, and JavaScript, especially when tackling more advanced concepts in JavaScript. Since I hadn’t done web development in over a year, it took some time to adjust but the hands-on projects really helped reinforce my understanding!
 
 ## License
 
